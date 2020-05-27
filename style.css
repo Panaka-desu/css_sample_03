@@ -1,0 +1,44 @@
+body {
+    background-color: #89BCD6;
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    background-color: #D3EDFB;
+    color: #0068B7;
+}
+
+header {
+    padding: 40px;
+    height: 80px;
+}
+
+nav {
+    padding: 8px 40px;
+    background-color: #4784BF;
+    color: white;
+}
+
+#contents{
+    font-family: "ＭＳ Ｐ明朝";
+    text-align: center;  /*  中央寄せ */
+    font-size: 400%;
+    padding: 15px;   /*  内側の余白 */
+    height : 400px;
+
+    margin : 20px ;  /*  外側の余白 */
+    border: solid 0.3rem;　/*  一本腺ボーダー */
+　　
+}
+
+.size_test2 {
+font-size:  50%;    /* 小さくできますの文字サイズ指定 */
+}
+
+footer {
+    padding: 40px;
+    height: 40px;
+    background-color : #4784BF ;
+    color: white;
+}
